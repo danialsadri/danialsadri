@@ -13,6 +13,9 @@
     <a href="https://instagram.com/danialsadri0" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32"/>
     </a>
+    <a href="https://www.linkedin.com/in/danialsadri01" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="35" alt="linkedin logo" style="max-width: 100%;">
+    </a>
 </p>
 <br/>
 
