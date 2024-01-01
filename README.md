@@ -17,7 +17,7 @@
 <br/>
 
 ### Skills :
-<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,docker,html,css" height="42"/></a></p>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,docker,nginx,html,css" height="42"/></a></p>
 <br/>
 
 ## github status:
