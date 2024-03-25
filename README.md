@@ -1,8 +1,8 @@
 <h1>About me:</h1>
-<p>Hi Im Danial Sadri</p>
-<p>I'm Python Developer</p>
+<p>Hi I'm danial sadri</p>
+<p>I'm a python developer</p>
 <div>
-    <h1>My Stack:</h1>
+    <h1>My stack:</h1>
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
     <img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white" alt="django"/><br>
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
