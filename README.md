@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/><br>
     <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
     <img src="https://img.shields.io/badge/celery-black?style=for-the-badge&logo=celery&logoColor=white" alt="celery"/>
+    <img src="https://img.shields.io/badge/elasticsearch-black?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elastic search"/>
     <div>
         <h2>Contact me:</h2>
         <a href="https://t.me/danialsadri01">
