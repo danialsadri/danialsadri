@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/><br>
     <img src="https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq"/>
     <img src="https://img.shields.io/badge/celery-black?style=for-the-badge&logo=celery&logoColor=white" alt="celery"/><br>
-    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
+    <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/><br>
     <div>
         <h2>Contact me:</h2>
         <a href="https://t.me/danialsadri01">
