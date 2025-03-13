@@ -17,8 +17,5 @@
         <a href="https://t.me/danialsadri01">
             <img align="left" width="120px" style="margin-right: 10px" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
         </a>
-        <a href="https://www.linkedin.com/in/danialsadri01">
-            <img align="left" width="120px" src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-        </a>
     </div>
 </div>
